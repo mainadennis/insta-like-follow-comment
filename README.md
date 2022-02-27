@@ -1,4 +1,6 @@
 # instagram-bot-to-like-follow-comment-and-unfollow-users-who-havent-followed-you-back-within-a-week
+This Bot follows based on a given list of #hashtags
+
 ## Notice
 For this to work, you need to have InstaPy installed https://pypi.org/project/instapy/0.1.0/ <br>
 Also, Notice that the original InstaPy package will run into so many errors as Instagram is constantly changing it's codebase.
