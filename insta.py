@@ -1,10 +1,7 @@
 import random
 from instapy import InstaPy
 from instapy import smart_run
-
-# login credentials
-insta_username = '<YourUserName>'
-insta_password = '<YourPassword>'
+from config import *
 
 dont_likes = ['sex', 'nude', 'naked','pussy']
 comments = ['I love your baking! :smiling_face_with_heart_eyes: @{}',
@@ -29,9 +26,6 @@ like_tag_list = ['bakery', 'bakeries', 'bakingtime', 'bakingfun',
 ignore_list = ['vegan', 'veggie', 'plantbased']
 
 accounts = ['similarAccount1', 'similarAccount2', 'similarAccount3']
-
-# get a session!
-session = InstaPy(username=insta_username, password=insta_password, headless_browser=True, disable_image_load=True, bypass_security_challenge_using="mobile")
 
 with smart_run(session):
     # settings
