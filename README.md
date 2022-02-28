@@ -1,5 +1,9 @@
 # instagram-bot-to-like-follow-comment-and-unfollow-users-who-havent-followed-you-back-within-a-week
-This Bot follows based on a given list of #hashtags
+Put your configurations(username & pass) inside the ```config.py``` file.<br>
+There are sevral bots here;
+1. ```Instapy.py``` follows users based on a given list of #hashtags
+2. ```Watch-stories-by-users.py``` watches the public stories/private stories that you have access to of provided user's list.
+3. ```Watch-stories-by-tags.py``` watches the public stories available on provided tags list.
 
 ## Notice
 For this to work, you need to have InstaPy installed https://pypi.org/project/instapy/0.1.0/ <br>
