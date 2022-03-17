@@ -29,7 +29,7 @@ To give a quick headstart incase you're stuck, clone this repo and follow the in
 
 ## Having troubles implementing?
  > Reach out to me maina@dentricedev.com 
- I will be happy to assist 
+ I will be happy to assist.
 # 
 ## want something improved or added?
   > Fork the repo @ [GitHub](https://github.com/mainadennis/insta-like-follow-comment).
